@@ -1,0 +1,20 @@
+The Human Risky Decision-Making (HURD) toolkit was developed from
+code and ideas originally proposed in the following paper:
+
+    Peterson, J. C., Bourgin, D. D., Agrawal, M., Reichman, D., &
+    Griffiths, T. L. (2021). Using large-scale experiments and
+    machine learning to discover theories of human decision-making.
+    Science, 372(6547), 1209-1214.
+    
+It is the joint creation of Joshua C. Peterson and David D. Bourgin,
+under the advisorship of Thomas L. Griffiths.
+
+The Human Risky Decision-Making (HURD) Toolkit (including any 
+metadata, scripts, and documentation) is made available under
+Creative Commons BY-NC-SA 4.0 license. You can use, redistribute,
+and adapt it for non-commercial purposes, as long as you (a) give
+appropriate credit by citing our paper, (b) indicate any changes
+that you've made, and (c) distribute any derivative works under 
+the same license.
+
+https://creativecommons.org/licenses/by-nc-sa/4.0/
